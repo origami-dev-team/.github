@@ -5,6 +5,7 @@
 ## Где скачать APK
 
 Есть ли рабочая версия приложения? Конечно! APK можно скачать [здесь](https://github.com/origami-dev-team/tulahack-2023-mobile/releases/download/1.0.0/ru.origami.comigami-Signed.apk), а посмотреть релиз [здесь](https://github.com/origami-dev-team/tulahack-2023-mobile/releases/tag/1.0.0).
+API лежит [здесь](http://31.129.109.90:3000/docs).
 
 ## Описание
 
